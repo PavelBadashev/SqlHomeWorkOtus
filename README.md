@@ -1,0 +1,2 @@
+# SqlHomeWorkOtus
+Домашнее задание SQL
